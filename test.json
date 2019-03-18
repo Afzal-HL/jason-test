@@ -6,7 +6,7 @@
 				"type": "html",
 				"url": "https://dashboard.lincolnmethod.com/signin",
 				"action": {
-					"trigger": "navigate"
+					"type": "$default"
 				}
 			}
 		}
