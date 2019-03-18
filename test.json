@@ -1,0 +1,13 @@
+"header":{
+"title":{
+"type": "image",
+"url":"http://lincolnmethod.com/wp-content/uploads/2017/09/logo.png"
+}
+},
+"background":{
+"type":"html",
+"url":"https://dashboard.lincolnmethod.com/signin",
+"action":{
+"trigger":"navigate"
+}
+}
